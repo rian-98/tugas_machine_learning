@@ -1,0 +1,8 @@
+#TUGAS KELOMPOK MATA KULIAH MACHINE LEARNING
+
+KELOMPOK 4
+ANGGOTA:
+1. Rian Riswandi - 10222165
+2. Rokib Abdul Rozak - 10222169
+3. Fahmi Abdul Aziz - 10222168
+4. Yana Nurdiana - 10222186
